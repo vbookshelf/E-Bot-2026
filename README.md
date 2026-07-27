@@ -22,6 +22,11 @@ No account needed. Just go to the website and start talking.
 
 <br>
 
+<img src="images/image4.png" alt="App screenshot" height="500">
+<p>Ready-made exercises</p>
+
+<br>
+
 ## Quick Info
 - Mobile optimized web app
 - Supports both voice and text

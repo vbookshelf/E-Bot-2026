@@ -1,4 +1,4 @@
-# E-Bot - Free AI English conversation practice
+# E-Bot - English practice chatbot
 
 <img src="images/image1.png" alt="App screenshot" width="300">
 

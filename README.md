@@ -54,6 +54,7 @@ No account needed. Just go to the website and start talking.
 ## Notes
 
 - Need to test how well the STT system handles accents and non-standard English pronounciations.
+- The second issue to solve is the API cost.
 
 
 <br>

@@ -35,6 +35,8 @@ No account needed. Just go to the website and start talking.
 - There are no ads, analytics, or user tracking built into E-Bot.
 - E-Bot sends your inputs to a third-party AI model provider that may retain prompt data. Please do not share sensitive or private information.
 
+<br>
+
 ## Revision History
 
 Version 3.0<br>

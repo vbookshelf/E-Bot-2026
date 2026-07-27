@@ -51,6 +51,13 @@ No account needed. Just go to the website and start talking.
 
 <br> 
 
+## Notes
+
+- Need to test how well the STT system handles accents and non-standard English pronounciations.
+
+
+<br>
+
 ## Revision History
 
 Version 3.0<br>

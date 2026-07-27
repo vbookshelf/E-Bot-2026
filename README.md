@@ -1,5 +1,7 @@
 # E-Bot - Free AI English conversation practice
 
+<img src="images/image1.png" alt="App screenshot" width="300">
+
 E-Bot is a free chatbot for practising spoken English. There's no fixed course or lesson plan. You just talk naturally and E-Bot responds with both text and voice.
 
 Many people learn grammar rules in school, but they find it hard to get conversation practice. Also, many are shy or anxious about making mistakes in front of others.

@@ -16,6 +16,7 @@ No account needed. Just go to the website and start talking.
 - Mobile optimized web app
 - Supports both voice and text
 - Supports images e.g. upload a photo of a menu and roleplay ordering from it.
+- Click any response to replay the audio
 - Minimalist UI design with light and dark modes
 - Frontend: Html, CSS, Javascript
 - Backend: PHP

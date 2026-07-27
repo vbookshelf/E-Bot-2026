@@ -34,3 +34,11 @@ No account needed. Just go to the website and start talking.
 - Older messages in your current chat are automatically trimmed over time to keep performance fast.
 - There are no ads, analytics, or user tracking built into E-Bot.
 - E-Bot sends your inputs to a third-party AI model provider that may retain prompt data. Please do not share sensitive or private information.
+
+## Revision History
+
+Version 3.0<br>
+1-August-2026<br>
+Released for concept validation.
+
+<br>

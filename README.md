@@ -46,15 +46,6 @@ No account needed. Just go to the website and start talking.
 
 <br> 
 
-## Privacy & Safety
-
-- Your chat history is deleted as soon as you close the tab. E-Bot does not retain a long-term memory of your messages.
-- Older messages in your current chat are automatically trimmed over time to keep performance fast.
-- There are no ads, analytics, or user tracking built into E-Bot.
-- E-Bot sends your inputs to a third-party AI model provider that may retain prompt data. Please do not share sensitive or private information.
-
-<br>
-
 ## Revision History
 
 Version 3.0<br>

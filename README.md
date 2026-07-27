@@ -13,8 +13,9 @@ No account needed. Just go to the website and start talking.
 <br>
 
 ## Quick Info
-- Supports both voice and text
 - Mobile optimized web app
+- Supports both voice and text
+- Supports images e.g. upload a photo of a menu and roleplay ordering from it.
 - Minimalist UI design with light and dark modes
 - Frontend: Html, CSS, Javascript
 - Backend: PHP

@@ -1,8 +1,8 @@
-# E-Bot - English practice chatbot
+# E-Bot - English Practice Chatbot
 
 <img src="images/image1.png" alt="App screenshot" width="300">
 
-E-Bot is a free chatbot for practising spoken English. There's no fixed course or lesson plan. You just talk naturally and E-Bot responds with both text and voice.
+E-Bot is a chatbot for practicing spoken English. There's no fixed course or lesson plan. You just talk naturally and E-Bot responds with both text and voice.
 
 Many learners know English grammar rules, but find it hard to get real-world conversation practice. Also, many are shy or anxious about making mistakes in front of others.
 

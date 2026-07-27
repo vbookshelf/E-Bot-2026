@@ -10,6 +10,22 @@ No account needed. Just go to the website and start talking.
 
 <br>
 
+## Quick Info
+- Supports both voice and text
+- Mobile optimized web app
+- Minimalist and visually calm UI design
+- Frontend: Html, CSS, Javascript
+- Backend: PHP
+- Uses the OpenRouter API (qwen3.5-flash-02-23 by Alibaba)
+- Set up as a three-agent LLM system - chat, correction, translation
+- Translation supports XXX languages
+- Uses Javascript SpeechRecognition to convert the user's speech into text
+- Uses Javascript SpeechSynthesis to convert text to speech
+- Has visual audio cues for deaf learners
+- Can be deployed on any website hosting platform
+
+<br>
+
 ## Privacy & Safety
 
 - Your chat history is deleted as soon as you close the tab. E-Bot does not retain a long-term memory of your messages.

@@ -20,7 +20,7 @@ No account needed. Just go to the website and start talking.
 - Backend: PHP
 - Uses the OpenRouter API (qwen3.5-flash-02-23 by Alibaba)
 - Set up as a three-agent LLM system - chat, correction, translation
-- Translation supports XXX languages
+- Translation supports 86 languages
 - Uses Javascript SpeechRecognition to convert the user's speech into text
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf learners

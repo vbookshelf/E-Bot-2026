@@ -12,17 +12,28 @@ No account needed. Just go to the website and start talking.
 
 <br>
 
+<img src="images/image2.png" alt="App screenshot" height="500">
+<p>Dark mode</p>
+
+<br>
+
+<img src="images/image3.png" alt="App screenshot" height="500">
+<p>Correction and translation</p>
+
+<br>
+
 ## Quick Info
 - Mobile optimized web app
 - Supports both voice and text
 - Supports images e.g. upload a photo of a menu and roleplay ordering from it.
+- Translates English responses into the user's native language. Supports 86 languages.
+- Corrects the user's spelling and grammar errors without disturbing the conversation flow.
 - Click any response to replay the audio
 - Minimalist UI design with light and dark modes
 - Frontend: Html, CSS, Javascript
 - Backend: PHP
 - Uses the OpenRouter API (qwen3.5-flash-02-23 by Alibaba)
 - Set up as a three-agent LLM system - chat, correction, translation
-- Translation supports 86 languages
 - Uses Javascript SpeechRecognition to convert the user's speech into text
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf learners

@@ -15,7 +15,7 @@ No account needed. Just go to the website and start talking.
 ## Quick Info
 - Supports both voice and text
 - Mobile optimized web app
-- Minimalist and visually calm UI design
+- Minimalist UI design with light and dark modes
 - Frontend: Html, CSS, Javascript
 - Backend: PHP
 - Uses the OpenRouter API (qwen3.5-flash-02-23 by Alibaba)
@@ -24,9 +24,9 @@ No account needed. Just go to the website and start talking.
 - Uses Javascript SpeechRecognition to convert the user's speech into text
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf learners
-- Can be deployed on any website hosting platform
+- Can be rebranded and self-hosted on any shared hosting platform
 
-<br>
+<br> 
 
 ## Privacy & Safety
 

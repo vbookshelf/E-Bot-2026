@@ -63,7 +63,7 @@ No account needed. Just go to the website and start talking.
 <br>
 
 ## Notes
-
+- This solution needs to be validated. The pain point exists, but does this approach effectively solve it for users who are highly motivated English learners?
 - This app needs to be beta tested by non-english speakers under real world conditions e.g. using their own mobile devices.
 - Need to test how well the STT system handles accented English and non-standard English pronounciations e.g. mo-char versus mo-car (coffee)
 - The API cost needs to be monitored.

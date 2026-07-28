@@ -209,7 +209,7 @@
 
     <h2>About this project</h2>
     <p>E-Bot is a non-profit ministry project by <a href="https://fivejc.com" target="_blank" rel="noopener">fivejc.com</a>.<br>
-		The open-source code is available on <a href="https://github.com/vbookshelf/E-Bot-English-Practice-Chatbot" target="_blank" rel="noopener">GitHub</a>.</p>
+		The open-source code is available on <a href="https://github.com/vbookshelf/E-Bot-2026" target="_blank" rel="noopener">GitHub</a>.</p>
 
     <div class="back-link-wrap">
         <a href="index.php" class="back-link">Start practicing</a>

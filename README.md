@@ -58,7 +58,7 @@ No account needed. Just go to the website and start talking.
 
 - Add your OpenRouter API key to the ebot_config.ini.txt file before uploading to your web host server.
 - Change the name of the file to ebot_config.ini
-- For added security its best to locate the ebot_config.ini file outside the web host root folder.
+- For added security it's best to locate the ebot_config.ini file outside the web host root folder.
 
 <br>
 

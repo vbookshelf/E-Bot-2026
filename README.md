@@ -1,4 +1,4 @@
-# E-Bot - English Practice Chatbot
+# E-Bot English Practice Chatbot - 2026
 
 <img src="images/image1.png" alt="App screenshot" width="300">
 

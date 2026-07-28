@@ -1,10 +1,12 @@
 # E-Bot English Practice Chatbot - 2026
 
+<img src="images/image1.png" alt="App screenshot" width="300">
+
 Live Demo - 2026 version:<br>
 <img src="images/image6.png" alt="App screenshot" width="150"> <br>
 https://ebot2026.woza.work/
 
-<img src="images/image1.png" alt="App screenshot" width="300">
+
 
 E-Bot is a chatbot for practicing spoken English. There's no fixed course or lesson plan. You just talk naturally and E-Bot responds with both text and voice.
 

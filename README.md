@@ -1,5 +1,8 @@
 # E-Bot English Practice Chatbot - 2026
 
+Live Demo - 2026 version:<br>
+https://ebot2026.woza.work/
+
 <img src="images/image1.png" alt="App screenshot" width="300">
 
 E-Bot is a chatbot for practicing spoken English. There's no fixed course or lesson plan. You just talk naturally and E-Bot responds with both text and voice.
@@ -62,7 +65,7 @@ No account needed. Just go to the website and start talking.
 ## Notes
 
 - This app needs to be beta tested by non-english speakers under real world conditions e.g. using their own mobile devices.
-- Need to test how well the STT system handles accented English and non-standard English pronounciations.
+- Need to test how well the STT system handles accented English and non-standard English pronounciations e.g. mo-char versus mo-car (coffee)
 - The API cost needs to be monitored.
 
 

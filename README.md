@@ -67,7 +67,8 @@ No account needed. Just go to the website and start talking.
 - This app needs to be beta tested by non-english speakers under real world conditions e.g. using their own mobile devices.
 - Need to test how well the STT system handles accented English and non-standard English pronounciations e.g. mo-char versus mo-car (coffee)
 - The API cost needs to be monitored.
-
+- The voice quality on mobile (Android) is much better than that on desktop.
+- The voice type and gender will vary across devices and across operating systems. This will be an issue with languages that have gender specific ways of speaking e.g. Thai.
 
 <br>
 

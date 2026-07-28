@@ -62,7 +62,7 @@ No account needed. Just go to the website and start talking.
 ## Revision History
 
 Version 3.0<br>
-1-August-2026<br>
-Released for concept validation.
+28-July-2026<br>
+Released for beta testing.
 
 <br>

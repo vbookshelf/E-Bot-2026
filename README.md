@@ -1,6 +1,7 @@
 # E-Bot English Practice Chatbot - 2026
 
 Live Demo - 2026 version:<br>
+<img src="images/image6.png" alt="App screenshot" width="150"> <br>
 https://ebot2026.woza.work/
 
 <img src="images/image1.png" alt="App screenshot" width="300">

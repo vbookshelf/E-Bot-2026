@@ -51,10 +51,19 @@ No account needed. Just go to the website and start talking.
 
 <br> 
 
+## Deployment Notes
+
+- Add your OpenRouter API key to the ebot_config.ini.txt file before uploading to your web host server.
+- Change the name of the file to ebot_config.ini
+- For added security its best to locate the ebot_config.ini file outside the web host root folder.
+
+<br>
+
 ## Notes
 
-- Need to test how well the STT system handles accents and non-standard English pronounciations.
-- The second issue to solve is the API cost.
+- This app needs to be beta tested by non-english speakers under real world conditions e.g. using their own mobile devices.
+- Need to test how well the STT system handles accented English and non-standard English pronounciations.
+- The API cost needs to be monitored.
 
 
 <br>

@@ -72,7 +72,7 @@ No account needed. Just go to the website and start talking.
 - The API cost needs to be monitored.
 - The voice quality on mobile (Android) is much better than that on desktop.
 - The voice type and gender will vary across devices and across operating systems. This will be an issue with languages that have gender specific ways of speaking e.g. Thai.
-- The app is non-profit with no ads, but it depends on a paid third-party AI model. Therefore, it's not clear how API and hosting costs will be covered as usage grows.
+- The app is non-profit with no ads, but it depends on a paid third-party AI model. Therefore, it's not clear how API costs and hosting costs will be covered as usage grows.
 <br>
 
 ## Revision History

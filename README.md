@@ -79,6 +79,11 @@ No account needed. Just go to the website and start talking.
 
 ## Revision History
 
+Version 3.1<br>
+5-August-2026<br>
+- Made light-mode the default theme.
+
+
 Version 3.0<br>
 28-July-2026<br>
 Released for beta testing.

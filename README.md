@@ -79,10 +79,15 @@ No account needed. Just go to the website and start talking.
 
 ## Revision History
 
+Version 3.2<br>
+13-August-2026<br>
+- Added a list of commonly used languages to the language search.
+- Added the ability to save the user's selected language.
+- Edited the About page subtitle.
+
 Version 3.1<br>
 5-August-2026<br>
 - Made light-mode the default theme.
-
 
 Version 3.0<br>
 28-July-2026<br>

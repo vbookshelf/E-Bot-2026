@@ -14,7 +14,8 @@ Many learners know English grammar, but find it hard to get real-world conversat
 
 E-Bot tries to solve these problems by providing a patient, private and low-stress way to practice English conversation on a phone or on a desktop computer.
 
-E-bot is powered by the Qwen3.5-Flash model served via OpenRouter. This is a fast and powerful AI model that currently costs a fraction of a cent per request. 
+E-bot is powered by the Qwen3.5-Flash model served via OpenRouter. This is a fast and powerful AI model that currently costs a fraction of a cent per request.<br> 
+https://openrouter.ai/qwen/qwen3.5-flash-02-23
 
 This tool is a zero friction solution - nothing to download, no registration, no login, no rate limits, no marketing landing page. The user just goes to the website and starts talking.
 

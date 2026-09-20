@@ -62,7 +62,7 @@ This tool is a zero friction solution - nothing to download, no registration, no
 ## Deployment Notes
 
 - Add your OpenRouter API key to the ebot_config.ini.txt file before uploading to your web host server.
-- Change the name of the file to ebot_config.ini
+- Change the name of the file from ebot_config.ini.txt to ebot_config.ini
 - For added security it's best to locate the ebot_config.ini file outside the web host root folder.
 
 <br>

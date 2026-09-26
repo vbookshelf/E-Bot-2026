@@ -16,7 +16,7 @@ E-Bot tries to solve these problems by providing a patient, private and low-stre
 
 E-bot is powered by the Qwen3.5-Flash model served via OpenRouter. This is a fast and powerful AI model that currently costs a fraction of a cent per request (https://openrouter.ai/qwen/qwen3.5-flash-02-23). Also, instead of using paid speech-to-text (STT) and text-to-speech (TTS) services, this solution uses Javascript SpeechRecognition and Javascript SpeechSynthesis. Both are built into the browser and are free. One downside is that voice quality can sometimes sound robotic - depends on the browser and on the operating system being used. 
 
-This tool is a zero friction solution - nothing to download, no registration, no login, no rate limits, no marketing landing page. The user just goes to the website and starts talking.
+This is a zero friction solution - nothing to download, no registration, no login, no rate limits, no marketing landing page. The user just goes to the website and starts talking.
 
 <br>
 

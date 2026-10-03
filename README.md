@@ -82,6 +82,10 @@ This is a zero friction solution - nothing to download, no registration, no logi
 
 ## Revision History
 
+Version 3.3<br>
+3-October-2026<br>
+- Fixed issue where language selector was not working in Safari.
+
 Version 3.2<br>
 13-August-2026<br>
 - Added a list of commonly used languages to the language search.

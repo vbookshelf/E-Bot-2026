@@ -56,6 +56,7 @@ This is a zero friction solution - nothing to download, no registration, no logi
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf learners
 - Can be rebranded and self-hosted on any shared hosting platform
+- For the best voice quality, it's recommended that the Chrome desktop browser should be used because it has built in high quality TTS voices. The voice quality on Android mobile devices is also good.
 
 <br> 
 
@@ -78,9 +79,14 @@ This is a zero friction solution - nothing to download, no registration, no logi
 - The current design is focused on serving motivated, self-directed learners. There's no lesson plan, no gamification, no streaks, and no external prompts to come back. This fact needs to be borne in mind when selecting beta testers - unless there are technical problems, just because someone loses interest in the app doesn't mean it's bad. It could mean that that person is just not who this app was built for.
 - Tested the app using the Brave browser on Andriod. It works well. There's no frustrating bloat and clutter like there is on more main stream browsers.
 - The API key can be easily stolen if the ebot_config.ini file is located inside the website root folder therefore, always locate this file outside the website root folder.
+- The latest version of the Chrome desktop browser includes built in high quality TTS voices e.g. Google US English. Therefore, Google Chrome will provide the best user experience. Previously high quality built in voice was only available on Android.
 <br>
 
 ## Revision History
+
+Version 3.4<br>
+11-October-2026<br>
+- Made Google US English the default voice. This will improve the user experience for those using the Chrome desktop browser.
 
 Version 3.3<br>
 3-October-2026<br>

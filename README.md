@@ -56,7 +56,7 @@ This is a zero friction solution - nothing to download, no registration, no logi
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf learners
 - Can be rebranded and self-hosted on any shared hosting platform
-- For the best voice quality, it's recommended that the Chrome desktop browser should be used because it has built in high quality TTS voices. The voice quality on Android mobile devices is also good.
+- For the best voice quality, the Chrome desktop browser should be used because the latest version now has built in high quality TTS voices. The voice quality on Android mobile devices is also good.
 
 <br> 
 

@@ -50,7 +50,7 @@ This is a zero friction solution - nothing to download, no registration, no logi
 - Minimalist UI design with light and dark modes
 - Frontend: Html, CSS, Javascript
 - Backend: PHP
-- Uses the OpenRouter API (qwen3.5-flash-02-23 by Alibaba)
+- Uses the OpenRouter API (qwen3.5-flash-02-23 and qwen/qwen3.7-flash - by Alibaba)
 - Set up as a three-agent LLM system - chat, correction, translation
 - Uses Javascript SpeechRecognition to convert the user's speech into text
 - Uses Javascript SpeechSynthesis to convert text to speech
@@ -83,6 +83,12 @@ This is a zero friction solution - nothing to download, no registration, no logi
 <br>
 
 ## Revision History
+
+Version 3.5<br>
+12-October-2026<br>
+- Added a translation feature. This will help users quickly check how to say things in English without affecting the flow of the conversation.
+- Made "Google UK English Female" the default voice.
+- In the proofreader_agent and the translation_agent changed the model to qwen/qwen3.7-flash. This cheaper model will reduce API costs. The chat_agent still uses qwen3.5-flash-02-23 because it's better at chatting.
 
 Version 3.4<br>
 11-October-2026<br>

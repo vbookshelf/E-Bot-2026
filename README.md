@@ -18,8 +18,11 @@ E-bot is powered by the Qwen3.5-Flash model served via OpenRouter. This is a fas
 
 This is a zero friction solution - nothing to download, no registration, no login, no rate limits, no marketing landing page. The user just goes to the website and starts talking.
 
+<br>
+
 > The E-Bot workflow can be easily modified to help users practice other languages besides English. In fact, because the API costs are low, I think this could be a good classroom project for international schools - combining coding, AI and social impact. 
 
+<br>
 <br>
 
 <img src="images/image2.png" alt="App screenshot" height="500">

@@ -85,6 +85,13 @@ This is a zero friction solution - nothing to download, no registration, no logi
 - Tested the app using the Brave browser on Andriod. It works well. There's no frustrating bloat and clutter like there is on more main stream browsers.
 - The API key can be easily stolen if the ebot_config.ini file is located inside the website root folder therefore, always locate this file outside the website root folder.
 - The latest version of the Chrome desktop browser includes built in high quality TTS voices e.g. Google US English. Therefore, Google Chrome will provide the best user experience. Previously high quality built in voice was only available on Android.
+  
+<br>
+
+## Related
+- Deutsch Bot - Practice Speaking German<br>
+https://github.com/vbookshelf/D-Bot
+
 <br>
 
 ## Revision History
